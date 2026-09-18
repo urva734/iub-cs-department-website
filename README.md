@@ -1,9 +1,9 @@
-# IUB Computer Science Department Website
+# IUB CS Department Website - Concept Website 
 
-A fully responsive department website for the Department of Computer Science at Islamia University of Bahawalpur.
+A fully responsive concept website inspired by the Department of Computer Science, IUB - built to practice modern frontend development.
 
 ## 🚀 Live Demo
-[https://iub-cs-department-website.vercel.app](https://iub-cs-department-website.vercel.app)
+🚀 **[Live Demo - Click Here](https://iub-cs-department-website.vercel.app)**
 
 ## 📋 Features
 - **Responsive Design**: Works perfectly on mobile, tablet, and desktop
